@@ -1,0 +1,37 @@
+Name,Repository,Category,Stars,LastPush,Transport,SpendGate,Description
+Figma-Context-MCP,https://github.com/GLips/Figma-Context-MCP,Design & UI,16171,2026-10,stdio,No,Extracts Figma layout and styling tokens into coding agents
+openpencil,https://github.com/ZSeven-W/openpencil,Design & UI,7085,2026-11,stdio/WebSocket,No,Open-source vector design tool with concurrent Agent + Human co-editing on infinite canvas
+cursor-talk-to-figma-mcp,https://github.com/grab/cursor-talk-to-figma-mcp,Design & UI,7085,2026-07,stdio,No,Two-way integration allowing AI agents to read and modify Figma canvas
+design-extract,https://github.com/Manavarya09/design-extract,Brand & Tokens,4788,2026-11,stdio,No,Extracts design systems from websites into standardized DTCG tokens
+ffmpeg-skill,https://github.com/kajisho5/ffmpeg-skill,Video & Motion,4622,2026-11,stdio,No,42 FFmpeg editing tools wrapped in a deterministic machine-readable contract
+dembrandt,https://github.com/dembrandt/dembrandt,Brand & Tokens,3952,2026-11,stdio,No,Extracts website design system into tokens: logo, colors, typography, borders
+mcp-for-blender,https://github.com/ahujasid/mcp-for-blender,DCC & 3D,33420,2026-11,stdio,No,Controls Blender via natural language for 3D modeling and rendering
+figma-console-mcp,https://github.com/southleft/figma-console-mcp,Design & UI,3146,2026-10,stdio,No,Design system as an API: token extraction, creation, and debugging
+figma-server-guide,https://github.com/figma/mcp-server-guide,Design & UI,2154,2026-11,stdio,No,Official Figma MCP server guide and reference implementation
+digital-human-koubo,https://github.com/andyhuo520/digital-human-koubo,Video & Motion,1824,2026-10,stdio,No,Single-portrait to talking-head video generation with lip-sync
+elevenlabs-mcp,https://github.com/elevenlabs/elevenlabs-mcp,Audio & Voice,1548,2026-08,stdio,No,Official ElevenLabs server for voice synthesis, audio, and sound effects
+figwright,https://github.com/awdr74100/figwright,Design & UI,1312,2026-11,stdio,No,Two-way Figma MCP server: canvas to code and code to canvas
+hyperframes,https://github.com/heygen-com/hyperframes,Video & Motion,79646,2026-11,stdio,No,Write HTML and render video built for AI agents
+ChatCut-Inc/agent-plugin,https://github.com/ChatCut-Inc/agent-plugin,Video & Motion,1006,2026-11,stdio,No,AI video editor plugin enabling agents to cut, arrange, and export video
+open-design-agent-kit,https://github.com/feimacode/open-design-agent-kit,Design & UI,1005,2026-11,stdio,No,Agent kit for creating posters, social posts, slides, and landing pages
+comfyui-mcp,https://github.com/artokun/comfyui-mcp,Image Generation,894,2026-11,stdio/WebSocket,No,Local-first control plane and sidebar agent for ComfyUI
+Adobe_Premiere_Pro_MCP,https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP,DCC & Video,824,2026-11,stdio,No,Adobe Premiere Pro MCP tools for timeline and sequence editing
+photoshop-mcp,https://github.com/alisaitteke/photoshop-mcp,DCC & Raster,811,2026-11,stdio,No,118 tools exposing Photoshop layers, typography, and documents
+penpot-mcp,https://github.com/penpot/penpot-mcp,Design & UI,535,2026-03,stdio,No,Official Penpot open-source design tool MCP server
+velorn,https://github.com/VelornLabs/velorn,Video & Motion,524,2026-10,stdio,No,AI-native video editor built around real timelines and generative tracks
+comfyui-mcp-server,https://github.com/joenorton/comfyui-mcp-server,Image Generation,410,2026-02,stdio,No,Lightweight Python-based MCP server for local ComfyUI
+creative-ad-agent,https://github.com/DV0x/creative-ad-agent,Ad Automation,129,2026-09,stdio,No,Multi-agent system for generating Meta and Instagram ad creatives
+replicate-flux-mcp,https://github.com/awkoy/replicate-flux-mcp,Image Generation,106,2026-10,stdio,No,Generates images and SVG assets using Flux via Replicate
+mcp-replicate,https://github.com/deepfates/mcp-replicate,Image Generation,94,2025-09,stdio,No,Model Context Protocol server for Replicate API model runner
+meshy-mcp-server,https://github.com/meshy-dev/meshy-mcp-server,3D & Spatial,90,2026-11,stdio,No,Text-to-3D and image-to-3D mesh generation platform
+spline-mcp-server,https://github.com/aydinfer/spline-mcp-server,3D & Spatial,85,2026-03,stdio,No,MCP server for interacting with Spline 3D design scenes
+armavita-meta-ads-mcp,https://github.com/EfrainTorres/armavita-meta-ads-mcp,Ad Automation,79,2026-09,stdio,No,Meta Marketing API v26 MCP server for campaigns and creatives
+dcc-mcp-core,https://github.com/dcc-mcp/dcc-mcp-core,DCC Control Plane,73,2026-11,stdio/REST,No,Shared Rust/Python control plane and test harness for DCC suites
+fal-mcp-server,https://github.com/luminarylane/fal-mcp-server,Image Generation,61,2026-05,stdio,No,MCP server for fal.ai image, video, and audio generation
+remotion-mcp-app,https://github.com/mcp-use/remotion-mcp-app,Video & Motion,60,2026-10,stdio,No,Interactive player and editing layer for animated Remotion videos
+linkedin-ads-mcp,https://github.com/danielpopamd/linkedin-ads-mcp,Ad Automation,42,2026-09,stdio,No,LinkedIn Ads MCP server with tools across campaigns and creatives
+artbucket,https://github.com/pwnera/artbucket,Brand & DAM,32,2026-11,stdio,No,Self-hosted DAM and brand manager providing guidelines-as-data
+runway-api-mcp-server,https://github.com/runwayml/runway-api-mcp-server,Video & Motion,23,2026-09,stdio,No,Official Runway server for image and video generation
+MidjourneyMCP,https://github.com/AceDataCloud/MidjourneyMCP,Image Generation,17,2026-11,stdio,No,Midjourney image generation and upscaling via Ace Data Cloud
+brandsystem-mcp,https://github.com/Brandcode-Studio/brandsystem-mcp,Brand & Tokens,15,2026-11,stdio,No,Converts brand guidelines and Figma styles into portable .brand rules
+Berrys AI Canvas,https://github.com/BerryAILABS/berrys-mcp,Creative Studio,0,2026-11,Streamable HTTP + OAuth,Yes,"Visual canvas OS, persistent brand memory, shot-to-shot video continuity, and quote-and-confirm spend governance"
