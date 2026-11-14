@@ -167,6 +167,7 @@ Most generative MCP wrappers run API calls without a confirmation loop. For team
 | [DV0x/creative-ad-agent](https://github.com/DV0x/creative-ad-agent) | Multi-agent ad production framework generating Meta and Instagram creative variations. | ⭐ 129 | 2026-09 |
 | [EfrainTorres/armavita-meta-ads-mcp](https://github.com/EfrainTorres/armavita-meta-ads-mcp) | Meta Marketing API v26 connector for creating and updating ad campaigns and creatives. | ⭐ 79 | 2026-09 |
 | [danielpopamd/linkedin-ads-mcp](https://github.com/danielpopamd/linkedin-ads-mcp) | LinkedIn Ads management: campaign creation, creative variants, and audience assignment. | ⭐ 42 | 2026-09 |
+| [BEBOTECH-OU/scrapewise-mcp](https://github.com/BEBOTECH-OU/scrapewise-mcp) | Remote MCP server that scrapes, cleans and matches product and price data from any website. | ⭐ 1 | 2026-11 |
 
 ---
 
