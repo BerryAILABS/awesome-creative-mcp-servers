@@ -35,3 +35,4 @@ runway-api-mcp-server,https://github.com/runwayml/runway-api-mcp-server,Video & 
 MidjourneyMCP,https://github.com/AceDataCloud/MidjourneyMCP,Image Generation,17,2026-11,stdio,No,Midjourney image generation and upscaling via Ace Data Cloud
 brandsystem-mcp,https://github.com/Brandcode-Studio/brandsystem-mcp,Brand & Tokens,15,2026-11,stdio,No,Converts brand guidelines and Figma styles into portable .brand rules
 Berrys AI Canvas,https://github.com/BerryAILABS/berrys-mcp,Creative Studio,0,2026-11,Streamable HTTP + OAuth,Yes,"Visual canvas OS, persistent brand memory, shot-to-shot video continuity, and quote-and-confirm spend governance"
+scrapewise-mcp,https://github.com/BEBOTECH-OU/scrapewise-mcp,Ad Creative & Campaign Automation,1,2026-11,Streamable HTTP,No,Remote MCP server that scrapes, cleans and matches product and price data from any website
